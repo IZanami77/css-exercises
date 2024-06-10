@@ -1,0 +1,16 @@
+.OddNumber{
+ background-color: pink;
+ font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#EvenTwo{
+    color: blue;
+    font-size: 36px;
+}
+#Three{
+    font-size: 24px;
+}
+#Evenfour{
+    background-color: greenyellow;
+    font-size: 24px;
+    font-weight: bold;
+}
